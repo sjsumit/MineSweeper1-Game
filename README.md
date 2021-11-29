@@ -1,2 +1,1 @@
-# MineSweeper1-Game
-Created with CodeSandbox
+Live Demo: https://csb-qhjjg.netlify.app/
